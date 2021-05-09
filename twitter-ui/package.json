@@ -14,7 +14,7 @@
     "faker": "^4.1.0",
     "gitmoji-cli": "^1.9.2",
     "global": "^4.4.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "native-base": "^2.12.1",
     "react": "16.8.3",
